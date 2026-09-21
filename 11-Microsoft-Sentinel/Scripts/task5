@@ -1,0 +1,3 @@
+ AzureActivity
+  | where ResourceProviderValue =~ "Microsoft.Security" 
+  | where OperationNameValue =~ "Microsoft.Security/locations/jitNetworkAccessPolicies/delete" 
