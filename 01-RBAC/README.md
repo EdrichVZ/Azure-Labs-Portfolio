@@ -23,9 +23,13 @@ This project demonstrates the implementation of Azure Role-Based Access Control 
 - Use the Azure portal to create a user account for Joseph Price.
 - Use the Azure portal to create a Senior Admins group and add the user account of Joseph Price to the group.
 
+
+
 ## Task 2:
 - Use PowerShell to create a user account for Isabel Garcia.
 - Use PowerShell to create the Junior Admins group and add the user account of Isabel Garcia to the group.
+
+![alt text](T2PS.png)
 
 ## Task 3:
 - Use Azure CLI to create a user account for Dylan Williams.
