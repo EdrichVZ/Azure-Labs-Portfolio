@@ -8,9 +8,21 @@ The lab focuses on implementing security controls for Azure SQL Database, includ
 
 ##Objectives(Completed):
 - Task 1: Deploy an Azure SQL Database
+
+<img width="2560" height="1392" alt="Task1" src="https://github.com/user-attachments/assets/d44b8b3d-cf92-497a-9a5d-86b0d01164e2" />
+  
 - Task 2: Configure Advanced Data Protection
+
+<img width="1724" height="985" alt="Task2" src="https://github.com/user-attachments/assets/34dc0bde-fe1e-44e6-b5ef-2e43264d3440" />
+
 - Task 3: Configure Data Classification
+
+<img width="2022" height="936" alt="Task3" src="https://github.com/user-attachments/assets/35358475-ff5c-4ea2-9d1f-9d2b3fdc2c5d" />
+
 - Task 4: Configure Auditing
+
+<img width="2006" height="843" alt="Task4" src="https://github.com/user-attachments/assets/a7288041-e1a7-42ae-bde1-ee64cef07759" />
+
 
 ##Technologies Used:
 - Azure SQL Database.
