@@ -1,12 +1,12 @@
 # AZURE-SQL-DATABASE-LAB
 Securing Azure SQL Database. Configured Microsoft Defender for SQL, performed Vulnerability Assessments, implemented Data Discovery &amp; Classification, enabled SQL Auditing, and explored Azure SQL security monitoring and threat protection features.
 
-##Overview:
+## Overview:
 
 The lab focuses on implementing security controls for Azure SQL Database, including enabling Microsoft Defender for SQL, performing vulnerability assessments, classifying sensitive data, and configuring auditing. These features help organizations protect database resources, detect threats, meet compliance requirements, and monitor database activity.
 (The project was completed as part of hands-on preparation for the AZ-500: Azure Security Engineer Associate certification).
 
-##Objectives(Completed):
+## Objectives(Completed):
 - Task 1: Deploy an Azure SQL Database
 
 <img width="2560" height="1392" alt="Task1" src="https://github.com/user-attachments/assets/d44b8b3d-cf92-497a-9a5d-86b0d01164e2" />
@@ -24,7 +24,7 @@ The lab focuses on implementing security controls for Azure SQL Database, includ
 <img width="2006" height="843" alt="Task4" src="https://github.com/user-attachments/assets/a7288041-e1a7-42ae-bde1-ee64cef07759" />
 
 
-##Technologies Used:
+## Technologies Used:
 - Azure SQL Database.
 - Azure SQL Server.
 - Microsoft Defender for Cloud.
@@ -35,7 +35,7 @@ The lab focuses on implementing security controls for Azure SQL Database, includ
 - Vulnerability Assessment.
 - Azure Portal.
 
-##Skills Demonstrated:
+## Skills Demonstrated:
 - Database security configuration.
 - Threat detection and monitoring.
 - Security assessment and remediation.
