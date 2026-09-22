@@ -33,7 +33,7 @@ The lab focuses on configuring inbound security rules, workload segmentation, an
 
 ## Task 1:
 - Create a virtual network with one subnet.
-- 
+  
  <img width="2560" height="1392" alt="Task1-VM+Subnet" src="https://github.com/user-attachments/assets/b6269eaf-c465-4926-9848-75dcf1e08307" />
  
 - Create two application security groups.
