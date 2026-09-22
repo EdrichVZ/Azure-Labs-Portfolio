@@ -25,15 +25,11 @@ This project demonstrates the implementation of Azure Role-Based Access Control 
 <img width="2560" height="1392" alt="Junior-Admin-Group-Members" src="https://github.com/user-attachments/assets/2a8c4e2c-e998-4d21-b2e3-237bb7d1b428" />
 
 - Assigned Azure RBAC permissions
-
-  
 - Applied the Virtual Machine Contributor role
+- Verified access permissions through IAM
 
   
 
-
-
-- Verified access permissions through IAM
 
 ## Technologies Used
 
