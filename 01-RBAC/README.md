@@ -23,21 +23,29 @@ This project demonstrates the implementation of Azure Role-Based Access Control 
 - Use the Azure portal to create a user account for Joseph Price.
 - Use the Azure portal to create a Senior Admins group and add the user account of Joseph Price to the group.
 
-
+![alt text](Entra-users.png)
+![alt text](Senior_Admin-Group-Members.png)
 
 ## Task 2:
 - Use PowerShell to create a user account for Isabel Garcia.
 - Use PowerShell to create the Junior Admins group and add the user account of Isabel Garcia to the group.
 
 ![alt text](T2PS.png)
+![alt text](Junior-Admin-Group-Members.png)
 
 ## Task 3:
 - Use Azure CLI to create a user account for Dylan Williams.
 - Use Azure CLI to create the Service Desk group and add the user account of Dylan to the group.
 
+![alt text](Bash-01.png)
+![alt text](Bash-02.png)
+![alt text](<Service Desk-Group-Members.png>)
+
 ## Task 4:
 - Create a resource group.
 - Assign the Service Desk Virtual Machine Contributor permissions to the resource group.
+
+![alt text](Lab_01-VM-Contributor.png)
  
 ## Technologies Used
 
