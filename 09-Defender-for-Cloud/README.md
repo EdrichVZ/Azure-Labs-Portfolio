@@ -1,14 +1,19 @@
 # AZURE-Microsoft-Defender-for-Cloud-Enhanced-Security-Features-for-Servers-LAB
 Enabling Microsoft Defender for Servers Plan 2 within Microsoft Defender for Cloud. The lab focused on strengthening the security posture of Azure virtual machines and hybrid servers by activating advanced threat protection, security monitoring, vulnerability assessment, and workload protection capabilities.
 
-##Overview:
+## Overview:
 Microsoft Defender for Cloud provides Cloud Security Posture Management (CSPM) and Cloud Workload Protection Platform (CWPP) capabilities for Azure, hybrid, and multi-cloud environments. In this lab, I navigated to Microsoft Defender for Cloud, configured environment settings, enabled the Servers workload protection plan, and reviewed the enhanced capabilities available through Microsoft Defender for Servers Plan 2. These capabilities help organizations detect threats, identify vulnerabilities, improve security posture, and protect critical server workloads across cloud and hybrid infrastructures
 
-##Objectives(Completed):
+## Objectives(Completed):
 - Task 1: Configure Microsoft Defender for Cloud Enhanced Security Features for Servers.
+
+<img width="2559" height="1294" alt="Task1" src="https://github.com/user-attachments/assets/3009beb7-fb0d-4ecc-a841-942e446d20a5" />
+
 - Task 2: Review the enhanced security features for Microsoft Defender for Servers Plan 2.
 
-##Technologies Used:
+<img width="2555" height="1295" alt="Task2" src="https://github.com/user-attachments/assets/fd54fa39-16b0-4b4b-b5fc-4c98edd9a064" />
+
+## Technologies Used:
 - Microsoft Azure
 - Microsoft Defender for Cloud
 - Microsoft Defender for Servers Plan 2
@@ -20,7 +25,7 @@ Microsoft Defender for Cloud provides Cloud Security Posture Management (CSPM) a
 - Cloud Security Posture Management (CSPM)
 - Cloud Workload Protection (CWPP)
 
-##Lessons Learned:
+## Lessons Learned:
 - Configure Microsoft Defender for Cloud security settings at the subscription level.
 - Enable Microsoft Defender for Servers Plan 2 to provide enhanced protection for Azure and hybrid servers.
 - Understand the difference between Cloud Security Posture Management (CSPM) and Cloud Workload Protection (CWPP).
